@@ -5,5 +5,8 @@
 
 ##使用技術##
 - laravel 8.*
-- 
+##ER図##
+- fruits.drawio.png
+
+####
 
