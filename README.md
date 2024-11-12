@@ -1,5 +1,8 @@
 # abi2test
 環境構築
-- laravel 8.*
 - Docker-compoe.yml
+- create_fruits_table
+##使用技術##
+- laravel 8.*
+- 
 
