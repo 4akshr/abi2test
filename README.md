@@ -8,5 +8,6 @@
 ##ER図##
 - fruits.drawio.png
 
-####
+##URL##
+- 開発環境:HTTP://localhost
 
